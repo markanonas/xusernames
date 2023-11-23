@@ -2,7 +2,7 @@ import openai
 import random
 
 # Set your OpenAI API key
-openai.api_key = 'YOUR_OPENAI_API_KEY'
+openai.api_key = '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'
 
 def generate_web3_username(prompt, num_suggestions=5):
     """
